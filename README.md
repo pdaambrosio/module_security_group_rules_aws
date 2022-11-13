@@ -41,5 +41,5 @@ module "example" {
 
 | Name | Description |
 |------|-------------|
-| <a name="output_aws_security_group_rule"></a> [aws\_security\_group\_rule](#output\_aws\_security\_group\_rule) | n/a |
+| <a name="output_aws_security_group_rule"></a> [aws\_security\_group\_rule](#output\_aws\_security\_group\_rule) | Security group rule |
 <!-- END_AUTOMATED_TF_DOCS_BLOCK -->
